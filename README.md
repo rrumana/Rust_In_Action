@@ -1,2 +1,3 @@
 # Rust_In_Action
-Rust In Action exercises
+
+I have recently started reading Rust In Action and will be completing some of the subprojects here.
